@@ -114,7 +114,7 @@ For questions, suggestions, or feedback:
 * **Name:** Karthik
 * **GitHub:** [@Karthik7-hub](https://github.com/Karthik7-hub)
 * **Email:** [vkarthik4321@gmail.com](mailto:vkarthik4321@gmail.com.com)
-* **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/vana-karthik-36aa25290/)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vana-karthik-36aa25290/)
 
 ---
 
