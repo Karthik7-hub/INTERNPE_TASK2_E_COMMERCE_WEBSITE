@@ -68,7 +68,7 @@ To run this project locally on your computer:
    ```bash
    git clone https://github.com/Karthik7-hub/INTERNPE_TASK2_E_COMMERCE_WEBSITE.git
    cd INTERNPE_TASK2_E_COMMERCE_WEBSITE
-````
+   ````
 
 2. **Open `index.html` in your browser**
 
@@ -77,21 +77,20 @@ To run this project locally on your computer:
 
 3. **Explore the website** from homepage to cart.
 
----
-
-## 📸 Screenshots
+##📸 Screenshots
 
 ### 🔹 Landing Page
 
-![Landing](images/screenshots/home.png)
+![Screenshot 2025-06-21 162016](https://github.com/user-attachments/assets/537683cf-8ee9-4d32-b985-a144fad84f0e)
+![Screenshot 2025-06-21 162027](https://github.com/user-attachments/assets/cdf2394c-f540-4de0-9490-38072675a4ff)
 
 ### 🔹 Product Section
 
-![Products](images/screenshots/products.png)
+![Screenshot 2025-06-21 162037](https://github.com/user-attachments/assets/7169817f-0c95-43be-98f9-7f5a3aa71b41)
 
 ### 🔹 Shopping Cart
 
-![Cart](images/screenshots/cart.png)
+![Screenshot 2025-06-21 162051](https://github.com/user-attachments/assets/21a48829-eac9-4141-bc0c-96a29caf745c)
 
 
 ---
