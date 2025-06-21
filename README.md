@@ -112,9 +112,9 @@ We welcome contributions to improve or extend this project.
 For questions, suggestions, or feedback:
 
 * **Name:** Karthik
-* [**GitHub:**](https://github.com/Karthik7-hub)
-* [**Email:**](mailto:vkarthik4321@gmail.com.com)
-* [**LinkedIn:**](https://www.linkedin.com/in/vana-karthik-36aa25290/)
+* [**GitHub**](https://github.com/Karthik7-hub)
+* [**Email**](mailto:vkarthik4321@gmail.com.com)
+* [**LinkedIn**](https://www.linkedin.com/in/vana-karthik-36aa25290/)
 
 ---
 
